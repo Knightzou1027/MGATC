@@ -1,2 +1,4 @@
 # 忽略 data 文件夹
 /data/
+# 忽略 results 文件夹
+/results/
