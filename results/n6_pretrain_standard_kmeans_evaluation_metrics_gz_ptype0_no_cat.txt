@@ -1,0 +1,11 @@
+silhouette: 0.26254063844680786
+davies_bouldin: 1.2965818686919348
+calinski_harabasz: 4333.422913368457
+cohesion: -1.413256049156189
+separation: 3.5237917370266385
+separation_to_cohesion: 2.493385214328702
+size_balance: 0.6155572441334822
+cluster_count: 6
+avg_cluster_size: 1196.8333333333333
+cluster_size_std: 460.11390497957734
+cluster_sizes: [1474, 1354, 1688, 308, 917, 1440]
